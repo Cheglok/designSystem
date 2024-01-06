@@ -1,0 +1,22 @@
+:root {
+    --font-family: "Noto Sans", "Arial", sans-serif;
+    /*Заголовок секций*/
+    --font-xl-bold: 700 24px var(--font-family);
+    /*Placeholder*/
+    --font-xl: 400 24px / 140% var(--font-family);
+
+    /*Кнопки*/
+    --font-l-bolder: 500 18px var(--font-family);
+
+    /*Заголовок превью документов*/
+    --font-m-bold: 700 16px var(--font-family);
+    /*Выбранный пункт навигации по документам (меню справа)*/
+    --font-m-bolder: 500 16px var(--font-family);
+    /*Даты превью документов*/
+    --font-m: 400 16px var(--font-family);
+
+    /*ссылка в футере*/
+    --font-s-bolder: 500 14px var(--font-family);
+    /*Текст в футере и навигации по документам*/
+    --font-s: 400 14px var(--font-family);
+}
