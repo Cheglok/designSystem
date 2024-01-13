@@ -6,9 +6,8 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-    name: "App",
-    components: {},
+    name: "TheLayout",
 });
 </script>
 
-<style lang="scss"></style>
+<style scoped lang="scss"></style>
